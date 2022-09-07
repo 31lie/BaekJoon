@@ -1,5 +1,5 @@
 # 2022. 09. 06
-# Algorithm Day 56
+# Algorithm Day 6
 # BaekJoon 2558 (Bronze 5)
 
 
