@@ -10,3 +10,5 @@ Bronze V -> Bronze III : 2022.09.02
 Bronze III -> Bronze II : 2022.09. ?
 
 Bronze III -> Bronze I : 2022.09.17
+
+Bronze I -> Silver V : 2022.09.20
