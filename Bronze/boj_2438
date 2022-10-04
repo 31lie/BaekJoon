@@ -1,0 +1,9 @@
+# 2022. 10. 04
+# BaekJoon 2438 (Bronze 5)
+
+
+
+num = int(input())
+
+for i in range(1,num+1):
+    print("*"*i)
